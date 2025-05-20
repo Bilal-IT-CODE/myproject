@@ -1,0 +1,105 @@
+body {
+    background-color: rgb(199, 199, 199);
+}
+
+.table {
+    background-color: rgb(230, 230, 230);
+    width: 800px;
+    height: 665px;
+    margin: auto;
+    margin-top: 50px;
+    background-image: url(Out_of_Time.jpg);
+    background-size: 1200px 700px;
+    box-shadow: 0 3px 15px rgb(98, 98, 98);
+}
+
+.title {
+    padding-left: 50px;
+    padding-top: 1px;
+    background-image: url(Desain\ tanpa\ judul.png);
+    background-repeat: repeat-x;
+    padding-bottom: 1px;
+    h1 {
+        font-family: monospace;
+        color: rgb(83, 91, 255);
+        text-shadow: 0 3px 7px rgb(181, 44, 255);
+    }
+}
+
+.jud {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 37px;
+}
+
+.menu {
+    background-color: gray;
+    padding-bottom: 10px;
+    padding-top: 7px;
+    padding-left: 10px;
+    display: flex;
+    .box1 {padding-left: 50px;}
+    .box2 {padding-left: 55px;}
+    .box3 {padding-left: 60px;}
+    a {text-decoration: none; color: gray;}
+    table {box-shadow: 0 3px 8px rgb(68, 68, 68);}
+}
+
+tr:hover {background-color: rgb(232, 232, 232);}
+
+h3 {
+    font-family: cursive;
+}
+
+.all {
+    padding-left: 40px;
+    h2 {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+         'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 30px;
+        text-shadow: 0 1px 7px rgb(255, 255, 255);
+        color: aliceblue;
+    }
+    p {
+        font-family: arial;
+        text-shadow: 0 1px 7px rgb(78, 78, 78);
+        color: rgb(224, 224, 224);
+        word-spacing: 3px;
+        letter-spacing: 1px;
+    }
+    h4 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-shadow: 0 1px 7px rgb(83, 106, 175);
+        color: rgb(227, 197, 255);
+        margin-right: 630px;
+    }
+}
+
+.lik01 {
+    text-decoration: none;
+}
+
+.lik02 {
+    text-decoration: none;
+}
+
+.lik03 {
+    text-decoration: none;
+}
+
+.img {
+    width: 200px;
+    padding-top: 10px;
+    padding-left: 560px;
+}
+
+.copy {
+    background-color: rgb(115, 159, 255);
+    margin-top: 213px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: aliceblue;
+    word-spacing: 2px;
+}
